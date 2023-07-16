@@ -1,7 +1,7 @@
 import socket
 
-host = "www.google.com"
-port = 80
+host = "127.0.0.1"
+port = 9999
 
 print("step 1")
 # making the socket object
